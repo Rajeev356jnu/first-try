@@ -4,4 +4,4 @@ chicken
 fish
 kheer
 daal
-chicken fry
+
